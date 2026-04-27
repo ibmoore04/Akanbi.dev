@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 const router = createRouter({
-  history: createWebHistory('/Akanbi.dev/'), // 👈 PUT YOUR REPO NAME HERE
+  history: createWebHistory('/'), // 👈 PUT YOUR REPO NAME HERE
   routes: [
     {
       path: '/',

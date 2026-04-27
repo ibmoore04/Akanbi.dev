@@ -4,7 +4,7 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/Akanbi.dev/',
+  base: '/', // ✅ FIXED for Vercel
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src')
