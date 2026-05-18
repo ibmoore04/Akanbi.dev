@@ -113,9 +113,8 @@ const typingSubtitle = ref(null)
 // typing data
 const nameText = "Building Digital Experiences"
 const titles = [
-  "Full-Stack Developer",
+  "Frontend Developer",
   "React & Vue Expert",
-  "UI/UX Designer",
   "Performance Optimizer"
 ]
 
